@@ -1,6 +1,5 @@
 module github.com/klische/crypto
 
-
 go 1.13
 
 require (
