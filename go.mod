@@ -1,4 +1,5 @@
-module golang.org/x/crypto
+module github.com/klische/crypto
+
 
 go 1.13
 
